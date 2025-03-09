@@ -5,10 +5,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=K3hkmIQI#OTHErUSWSf352hCleISdPtectdO19ZA7dnJnd6cExI0' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=HypzyYDQ#LjCu5kJWZImV8EmiEtA8-C3bs5JSG5_GFIXgr-mAPX4' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '94702572157' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '94778742627' : process.env.SUDO,
 SESSION_NAME: process.env.PORT === undefined ? "niroshan" : process.env.SESSION_NAME,
 ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "*Hello , I am alive now!!*" : process.env.ALIVE_MSG,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
